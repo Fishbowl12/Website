@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head><!-- Comment -->
+  <link rel="stylesheet" href="styles.css">
+  <title>Home Page</title>
+</head>
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="Music.html">Music</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">External Links</a>
+    <div class="dropdown-content">
+      <a href="https://soundcloud.com/user-579188786">soundcloud</a>
+      <a href="https://factorybasic.bandcamp.com/">Bandcamp</a>
+      <a href="https://perlencesubrange.tumblr.com/">Tumblr</a>
+    </div>
+  </li>
+</ul>
+
+<h3>Home Page</h3>
+
+<p>Welcome</p>
+<p>This is a personal website about music, art, digital media and culture. I have created it as part of a project moduel to show off my very primiative hypertext skills.
+  Nethertheless, what I have learnt had been interesting and I want to put it into something bigger and more grandiose. Betteryet, a website to showcase my music, art, and design work.</p>
+
+
+  I am currently studying at the university of plymouth, based in the roland levinski building, this is what is looks like from the outside.<p>
+<img src="plymouthuni.jpg" alt="mu" style="width:500px;height:500px;">
+
+</body>
+</html>

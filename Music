@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head><!-- Comment -->
+  <link rel="stylesheet" href="styles.css">
+
+  <title>Music Page</title>
+</head>
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="Music.html">Music</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">External Links</a>
+    <div class="dropdown-content">
+      <a href="https://soundcloud.com/user-579188786">Soundcloud</a>
+      <a href="https://soundcloud.com/user-579188786">Bandcamp</a>
+      <a href="https://perlencesubrange.tumblr.com/">Tumblr</a>
+    </div>
+  </li>
+</ul>
+
+<h3>Music Page</h3>
+
+<tite>Music</<title>
+    <style>
+    .wrapper{
+      display:grid;
+      grid-template-columns: 70% 30%;
+      /*
+      grid-column-gap: 1em;
+      grid-row-gap:1em;
+    */
+    grid-gap: 1em;
+
+    }
+
+     .wrapper >div{
+       background:#D98880;
+       padding:1em;
+     }
+     .wrapper >div:nth-child(odd){
+       background:#blue;
+     }
+      </style>
+      </head>
+      <body>
+      <div class= "wrapper">
+        <div>
+          <font color="Black">
+          My earlest interest in music was quite young as my parents used to play stuff I enjoyed, but it wasnt untill I started taking guitar lessons in secondry school when I started to take a more active interest, which is when I started wanting to Join bands.
+          In art college, I was in a band and knew people who had simular taste, we would oftern share indie groups who would influence us, but more interestingly we would litsen to stuff outside the band, which would be hiphop groups like a Tribe Called Quest or Dance music like Aphex Twin.
+          My personal interest was towards the organic production of DIY electronic music, partly because i had the equipment to do it and it was fun!
+          That lead me onto music college where there was a focus on live sound recording, composition, and software intregration which allowes you to make your own intruments, we used Reaktor for this and it allowed me to understand the fundamental concepts behind audio synthesis.
+         Dropping out of music college, I decided to work for a year, while making music on the side, and participating with outside interets such as litature and art.
+
+
+            </font>
+        </div>
+            <div>
+            </font color="white">
+            Currently I am a fresher at plymouth University and am learning the basics of website development. Hopefully I will get good enouth to make a sucessfull website to show off my tracks, sound design, and hardware interests.
+            So far we had looked at location recording and editing software such as Max/msp. Both recording and editing for this moduel have been invaluable experiance. I am looking foward to what challenges lie ahead in the field of sound technology!
+               </font>
+       </div>
+       <div>
+         More about my music projects.
+
+
+        To start with, my of early experimentation consisted of a lot of laying of sporatic guitar keyboard mashing. There is a one or two tracks, which is very basic but interesting in a way, maybe just to look back on,
+        I got to recording lots of things on this software, and most are lost, probably for the better.
+
+       Later on I got a drum machine and things got a bit better, I was perhaps more diligent and technology pathed my way foward.
+       Then after, I went to dBs(Deep Blue Sound-music college) it began to get a lot clearer that my influence was Dance Music and I became obessed with litsening to lots of stuff and gathering taste and apresiation for recording techniques and equipment.
+       It was interesting but along the way I felt like is was streching my facination for other peoples ways of Mixing tracks and using eqipment. I thought it could be done easier at home with limited equipment, and i wouldnt need to know the different all plugings and software untill i got to actually using them.
+
+
+        This is currently cosisting of outboard production, mostly cosnsiting of CD's tape and guitar effects.
+        On the link section above, you can select the soundcloud for this project above. On the section selection, is another project, factory basic, which is from 2016,
+
+        In
+        I am currently working on a project just involving outboard production
+       </div>
+           <div>
+           </font color="white">
+           Future plans.
+             In my recent course moduels we have began looking at two fields: Digital Media Design and Digital Making.
+             In exploration of these fields, my music, and digital methods and processing I hope to amount to a body of work which is equally rewarding/challenging to myself as it is fresh and entertaining to others.
+             In doing this, i will start to think about my audience more, how I can bring in the aethetics I find apeasing and progress further and in more depth of my chosen studies.
+             For my Digital Media Design Moduel, I will be looking at animations, visual artists, film, literature and music.
+             For my Digital Making Moduel I will be working in groups and deciding and coperating on different design tasks and complete set chllenges in the field of microprocessing and robotics.
+              </font>
+     </div>
+      </body>
+      </html>
+
+
+
+
+<p>Demo
+  <body>
+  <EMBED SRC="Demo1.wav" VOLUME="50" HEIGHT="60" WIDTH="144">
+    </audio>
+  </body>
+  </p>
+
+
+</P>
+This is my demo, its quite a raw/basic selection of my tracks, but in terms of order and comunication it works pretty well. I hope you enjoy litsening as much as I enjoyed making.
+See you on the Flip side!
+Sam.
+</body>
+</html>

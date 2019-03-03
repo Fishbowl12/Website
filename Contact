@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head><!-- Comment -->
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+  <style>
+  .w3-tangerine {
+    font-family: 'Tangerine', serif;
+	font-size: 64px;
+  }
+  </style>
+  <title>Contact Page</title>
+</head>
+
+<h1></h1>
+
+
+
+
+
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="Music.html">Music</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">External Links</a>
+    <div class="dropdown-content">
+      <a href="https://soundcloud.com/user-579188786">Soundcloud</a>
+      <a href="https://factorybasic.bandcamp.com/">Bandcamp</a>
+      <a href="https://perlencesubrange.tumblr.com/">Tumblr</a>
+    </div>
+  </li>
+</ul>
+
+<h3>Contact page</h3>
+
+
+<p class="w3-tangerine">Shall I project a world?</p>
+<p>  You can drop me an email via sam.schofieldYT@gmail.com or message me on any one of the external links above, or if you like, you can drop your email along with other details about yourself in the questionare bellow.
+  The purpose of this is to help me have an idea of the scope of the world around me, to know whos about with the same interests, or instrests which are complete different.
+  Basically, it would be interesting to get a feel of an audience, so in the future i could have some feedback and build to create a more prevalent website.
+
+  I hope I could build the user interactivity up a bit more and and make the website commune friendly, maybe getting a little message board up and running if I see that there are enouth people interested.</p>
+
+<p>  So, if you feel like being a part of something, join in by filling out my questionare. But do be comfortable about how much info you want to give away, I understand the sensitivity around privacy these days, or maybe lack of? Inbalance?
+  well it doesnt ask any too poigent questions, even though they are quite specific. Oh, and if you're thinking about making a joke or troll or whatever, thats alright, its suposed to not be very serious anyway. <p>
+
+<h1>Questionare</h1>
+
+  <label>Gender</label><br>
+  <select id="Gender" name="gender">
+    <option value="male">Male</option>
+    <option value="female">Female</option>
+    <option value="other">Other</option>
+  </select>
+
+  <label>If other:</label><br>
+  <input type="text" id="name2" name="name2">
+  <br>
+
+
+  <label>How did you hear about my music?</label><br>
+  <input type="text" id="name3" name="name3">
+  <br>
+  <label>What medium do you use to consume music/albums?</label><br>
+  <select id="medium" name="medium">
+  <option value="computer/phone">computer/phone</option>
+  <option value="mp3players">mp3players</option>
+  <option value="CD's">CD's</option>
+  <option value="records">records</option>
+  </select>
+  <br>
+
+
+  <label>If you chose CD's or records, what equipment do you use to play them?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Is the equipment yours or do you share it?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+
+  <label>If you share it, with whom do you share?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+
+  <label>What were the last three albums you litsened to?</label><br>
+  <input type="text" id="name" name="name">
+  <input type="text" id="name" name="name">
+  <input type="text" id="name" name="name">
+  <br>
+
+
+  <label>Would you say you were happy with the kind of music/sound commerically avaible?</label><br>
+  <select id="Feeling" name="music">
+    <option value="Happy">Happy</option>
+    <option value="NOT happy">NOT happy</option>
+  </select>
+  <input type="text" id="name" name="name">
+  <br>
+
+
+  <label>If NOT state why not and what you'd like</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Do you regularly go to see movies?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>What was the last film you saw?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Do you subscribe to any magazines?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>If yes which ones?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Do you regularly litsen to any any live streaming websites and/or radio?</label><br>
+  <select id="stream" name="radio">
+    <option value="yes">yes</option>
+    <option value="no">no</option>
+  </select>
+  <br>
+
+  <label>If yes which ones?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Last book you read?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>How long ago was it?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>What is your occupation?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>What kind of school did you go to?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Do you live with your parents?</label><br>
+  <select id="Parents" name="live">
+    <option value="yes">yes</option>
+    <option value="no">no</option>
+  </select>
+
+
+  <label>If no what kind of situation do you live in?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>What kind of conditions do you like to litsen to music. e.g. at night with the window open?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Are you part of a religious group/organisation?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Are you engadged in any form of musical activity?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>What is your favoured genre of music?</label><br>
+  <select id="genre" name="genre">
+  <option value="rock">rock</option>
+  <option value="classical">classical</option>
+  <option value="indie">indie</option>
+  <option value="dance">dance</option>
+  </select>
+  <br>
+
+  <label>Would you be ineterested in a collaboration to produce records/music?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+  <label>Do you use alcohol? what types?</label><br>
+  <input type="text" id="name" name="name">
+  <br>
+
+<input type="submit" value="Submit">
+
+</body>
+</html>
